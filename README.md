@@ -1,6 +1,5 @@
-# Cancer_Classification
-----
 # Breast Cancer Classification
+----
 This is a classsification problem aimed to identify and distinguish malignant cancer from benign, using measures of area, smoothness, texture etc., from a digitized image of a cell nuclei.
 
 # Dataset
